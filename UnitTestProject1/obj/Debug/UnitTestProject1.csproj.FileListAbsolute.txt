@@ -1,0 +1,17 @@
+D:\visual proekti\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\visual proekti\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\visual proekti\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\visual proekti\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+D:\visual proekti\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+D:\visual proekti\UnitTestProject1\bin\Debug\GitUnitTestDemo.exe
+D:\visual proekti\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\visual proekti\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\visual proekti\UnitTestProject1\bin\Debug\GitUnitTestDemo.pdb
+D:\visual proekti\UnitTestProject1\bin\Debug\GitUnitTestDemo.exe.config
+D:\visual proekti\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\visual proekti\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\visual proekti\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.AssemblyReference.cache
+D:\visual proekti\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+D:\visual proekti\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CopyComplete
+D:\visual proekti\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+D:\visual proekti\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
